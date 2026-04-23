@@ -4,7 +4,7 @@
 This project is a very simple introduction to electronics.  
 It shows how to power an **LED** using a **9V battery**, a **resistor**, and a **breadboard** without using an Arduino.
 
-![Basic LED Circuit](image.png)
+![Basic LED Circuit](firstpro.png)
 
 This beginner project helps in understanding:
 - Basic circuit connections
